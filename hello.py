@@ -1,2 +1,2 @@
 print("Hello world")
-print("Something")
+print("Something and else something")
